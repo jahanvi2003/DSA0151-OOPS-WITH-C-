@@ -1,0 +1,14 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	float r,l,b,pi;
+	r=5;
+	l=4;
+	b=5;
+	pi=3.14;
+	cout<<"the area of circle:"<<pi*r*r<<endl;
+	cout<<"the area of rectangle:"<<l*b<<endl;
+	
+	
+}
